@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zuhaib27
 - 👀 I’m interested in tech, software, and am a gearhead.
-- 🌱 I’m currently learning backend development.
+- 🌱 I’m currently learning to build a project car.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: zuhaib.k.2@hotmail.com
 
